@@ -156,12 +156,14 @@ ul {
 }
 
 .portLabel {
-	color: #fff;
+	color: black;
+	font-weight: bolder;
 	background-color: #4aaaa5;
-	line-height: 40px;
+	opacity: .5;
+	line-height: 20px;
 	text-align: center;
 	position: relative;
-	bottom: 53px;
+	bottom: 23px;
 
 }
 
